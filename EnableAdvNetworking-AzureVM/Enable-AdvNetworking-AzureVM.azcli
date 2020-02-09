@@ -1,0 +1,2 @@
+az account list
+az account set --subscription 29f10ffa-14f3-474c-afbf-c7b40bfc6b42
